@@ -1,3 +1,4 @@
 opencv-python == 4.5.3.*
 numpy == 1.21.1
 matplotlib == 3.4.2
+mss == 6.1.0
